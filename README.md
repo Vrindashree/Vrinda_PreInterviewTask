@@ -19,7 +19,7 @@ Refer the attached screenshot
 
 **2.Observations**
 
-This error will thrown If the CORS configuration is not setup correctly.
+- This error will thrown If the CORS configuration is not setup correctly.
 Also there is a possible that the request is disallowed by the user's web application
 
 Two Web URLs having different origins when they have different protocols or hosts.
